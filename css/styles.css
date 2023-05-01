@@ -1,0 +1,24 @@
+.content{
+  display: flex;
+  margin: 0;
+  background-color: transparent;
+  cursor: default;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.tasks{
+  margin: 10px;
+  background-color: #000;
+  border: 2px white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.tasks:hover{
+  cursor: pointer;
+}
